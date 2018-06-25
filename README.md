@@ -2,7 +2,7 @@
 ## 環境安裝
 * 安裝套件
 ```
-pip install -r requirtment.txt
+pip install -r requirement.txt
 ```
 * 設定全域指令
 ```
